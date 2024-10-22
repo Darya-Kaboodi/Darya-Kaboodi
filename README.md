@@ -1,16 +1,9 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Darya-Kaboodi/Darya-Kaboodi/blob/main/PI.png" alt="My Image" width="50">
+```math
+Stirlings\ Approximation:\ n!=\sqrt{2\pi n}(\frac{n}{e})^{n}(1+\theta (\frac{1}{n}))
+```
 
-<p align="center">
-  <img src="https://github.com/Darya-Kaboodi/Darya-Kaboodi/blob/main/0.jpg" alt="Image 0" height="900">
-  <br>
-  <img src="https://github.com/Darya-Kaboodi/Darya-Kaboodi/blob/main/1.jpg" alt="Image 1" height="200" width="400">
-  <br>
-  <img src="https://github.com/Darya-Kaboodi/Darya-Kaboodi/blob/main/2.jpg" alt="Image 2" height="200" width="400">
-</p>
-
-
-
-
-
-
-
+<!--
+```math
+Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\psi ( t)
+``` 
+-->
