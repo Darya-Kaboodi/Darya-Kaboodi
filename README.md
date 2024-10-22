@@ -1,9 +1,3 @@
 ```math
-Stirlings\ Approximation:\ n!=\sqrt{2\pi n}(\frac{n}{e})^{n}(1+\theta (\frac{1}{n}))
+Wave\ Equation:\ \eta(x,t) = A \cos\left( \frac{2\pi}{\lambda} (x - vt) \right)
 ```
-
-<!--
-```math
-Schrödinger\ equation:\ i\hbar \frac{\delta }{\delta t} |\psi ( t) =\hat{H} |\psi ( t)
-``` 
--->
