@@ -9,23 +9,30 @@ response = {
         "fullName": "Darya Kaboodi",
         "birthDay": "2003 July 10, Thursday",
         "university": "Computer Engineering Tehran",
+        
+        # Hobbies
         "hobbies": [
-            "podcast",
-            "book",
-            "hiking",
-            "cycling",
-            "web scraping"
+            "🎙 Podcast",
+            "📚 Book",
+            "🥾 Hiking",
+            "🚴‍♀️ Cycling",
+            "🌐 Web Scraping"
         ],
+        
+        # Programming Languages
         "languages": [
-            ".java(5x)",
-            ".py(4x)",
-            ".js(3x)",
-            ".php(1x)",
-            "cpp(1x)"
+            "☕ Java (5x)",
+            "🐍 Python (4x)",
+            "💻 JavaScript (3x)",
+            "🐘 PHP (1x)",
+            "🚀 C++ (1x)"
         ],
-        "quote": "Do something that makes people's lives easier.",
-        "currently": "STUDING_FOR_MS_EXAMINATION"
+        
+        # Quote
+        "quote": "💡 Do something that makes people's lives easier.",
+        
+        # Current Status
+        "currently": "📘 Studying for MS Examination"
     }
 }
-
 
