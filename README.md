@@ -1,16 +1,17 @@
 ```math
 Wave\ Equation:\ \eta(x,t) = A \cos\left( \frac{2\pi}{\lambda} (x - vt) \right)
 ```
+
 ![header image](https://github.com/Darya-Kaboodi/Darya-Kaboodi/blob/main/D_K.gif?raw=true)
 
-response = {
+response = {  
     "status": 200,
-    "data": {
+
+    "data": {  
         "fullName": "Darya Kaboodi",
         "birthDay": "2003 July 10, Thursday",
         "university": "Computer Engineering Tehran",
-        
-        # Hobbies
+
         "hobbies": [
             "🎙 Podcast",
             "📚 Book",
@@ -18,21 +19,16 @@ response = {
             "🚴‍♀️ Cycling",
             "🌐 Web Scraping"
         ],
-        
-        # Programming Languages
+
         "languages": [
-            "☕ Java (5x)",
-            "🐍 Python (4x)",
-            "💻 JavaScript (3x)",
-            "🐘 PHP (1x)",
-            "🚀 C++ (1x)"
+            ".java(5x)",
+            ".py(4x)",
+            ".js(3x)",
+            ".php(1x)",
+            "cpp(1x)"
         ],
-        
-        # Quote
-        "quote": "💡 Do something that makes people's lives easier.",
-        
-        # Current Status
-        "currently": "📘 Studying for MS Examination"
+
+        "quote": "Do something that makes people's lives easier.",
+        "currently": "STUDING_FOR_MS_EXAMINATION"
     }
 }
-
