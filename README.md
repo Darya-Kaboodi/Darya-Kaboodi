@@ -19,7 +19,7 @@ response ={
     
 }
 
-[![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.linkedin.com/in/ehsan-shahbazi-848206225) 
+[![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/darya-kaboodi)](https://www.linkedin.com/in/darya-kaboodi/) 
 [![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://t.me/ehsandevv) 
 [![discord](https://img.shields.io/badge/discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://discordapp.com/users/831590366967890002) 
 
