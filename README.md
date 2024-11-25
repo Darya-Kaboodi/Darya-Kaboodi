@@ -22,8 +22,8 @@ response ={
 [![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/ehsanshahbazii)](https://www.linkedin.com/in/darya-kaboodi/)
 [![discord](https://img.shields.io/badge/discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=white?url=https://codepen.io/dry._.kb)](https://discordapp.com/users/dry._.kb) 
 
-![](https://komarev.com/ghpvc/?username=EhsanShahbazii&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/EhsanShahbazii)
+![](https://komarev.com/ghpvc/?username=Darya-Kaboodi&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Darya-Kaboodi)
 <a href="http://www.coffeete.ir/ehsan_shahbazi">
 <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:180px;" />
 </a>
